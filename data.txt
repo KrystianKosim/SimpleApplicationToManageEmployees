@@ -1,0 +1,2 @@
+Jan,Kowalski,50,Kierownik,1972,10,10,100,
+Karolina ,Nowak,22,Kierownik,2000,160,20,3200,
